@@ -13,11 +13,7 @@
 	<script type="text/javascript" src="assets/js/social-buttons.js"></script>  
   
 </head>
-<body style="background-color:#000">
-
-
-
-
+<body>
 
 	<div class="container">
     	<div class="socialButton facebook">
@@ -33,9 +29,6 @@
         	<div class="socialButtonContent">Snap</div>
         </div>
     </div>
-
-
-
 
 </body>
 </html>
